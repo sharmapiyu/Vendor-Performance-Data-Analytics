@@ -99,5 +99,5 @@ The Power BI dashboard delivers insights such as:
 ---
 
 ### 📨 Contact
-**Lakshay Singh**  
-📧 lakshaysingh6255@gmail.com  
+**Piyush Sharma**  
+📧 piyush.sharma73032@gmail.com  
